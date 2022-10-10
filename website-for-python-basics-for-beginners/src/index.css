@@ -1,3 +1,64 @@
 body {
     background-color: aliceblue;
 }
+
+.topNavbar {
+    background-color: black;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    top: 0%;
+    left: 0%;
+    right: inherit;
+    /* height: 10%; */
+    width: 100%;
+    /* padding-top: 1%;
+    padding-bottom: 1%; */
+    overflow: hidden;
+    padding: 1%;
+
+}
+
+#optionDesign {
+    float: right;
+    color: white;
+    font-size: x-large;
+}
+
+.titleDesign {
+    color: aquamarine;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+}
+
+.navButton {
+    background-color: transparent;
+    height: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: white;
+    align-self: ;
+}
+
+.contentMenu {
+    background-color: transparent;
+}
+
+img {
+    height: 5%;
+    width: 10%;
+    border-radius: 30px;
+}
+
+/* .contentMenu {
+    height: 10%;
+    width: 10%;
+} */
+
+.menuLogo {
+    height: 50px;
+    width: 50px;
+    object-fit: contain;
+}

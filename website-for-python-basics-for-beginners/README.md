@@ -1,4 +1,4 @@
-# These are the files of a website to learn basics of **Python** programming language, specially for beginners.
+# These are the files of a website to learn basics of **`Python`** programming language, specially for beginners.
 
 # Here one can learn: 
 

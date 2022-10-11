@@ -39,7 +39,7 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
     color: white;
-    align-self: ;
+    /* align-self: ; */
 }
 
 .contentMenu {
@@ -61,4 +61,13 @@ img {
     height: 50px;
     width: 50px;
     object-fit: contain;
+}
+
+/* .footer {
+    background-color: darkblue;
+    width: 100%;
+} */
+
+.homePageContent {
+    text-align: center;
 }

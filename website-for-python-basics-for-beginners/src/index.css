@@ -1,5 +1,8 @@
 body {
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
+    background-image: url(../Images\ and\ Icons/backgroundPic.png);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
 }
 
 .topNavbar {
@@ -39,7 +42,11 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
     color: white;
-    align-self: ;
+    /* align-self: ; */
+}
+
+.navButton:hover {
+    color: yellow;
 }
 
 .contentMenu {
@@ -61,4 +68,28 @@ img {
     height: 50px;
     width: 50px;
     object-fit: contain;
+}
+
+/* .footer {
+    background-color: darkblue;
+    width: 100%;
+} */
+
+.homePageContent {
+    text-align: center;
+}
+
+.pythonPageButton {
+    padding: 20px 20px 20px 20px;
+    color: blueviolet;
+    background-color: yellow;
+    border: none;
+    border-radius: 10px;
+    font-size: larger;
+    transition-delay: 20ms;
+}
+
+.pythonPageButton:hover {
+    background-color: white;
+    border: 2px solid yellow;
 }

@@ -1,0 +1,61 @@
+body {
+    background-color: bisque;
+}
+
+.topNavbar {
+    background-color: black;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    top: 0%;
+    left: 0%;
+    right: inherit;
+    /* height: 10%; */
+    width: 100%;
+    /* padding-top: 1%;
+    padding-bottom: 1%; */
+    overflow: hidden;
+    padding: 1%;
+
+}
+
+.titleDesign {
+    color: aquamarine;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+}
+
+#optionDesign {
+    float: right;
+    color: white;
+    font-size: x-large;
+}
+
+.navButton {
+    background-color: transparent;
+    height: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: white;
+    /* align-self: ; */
+}
+
+.navButton:hover {
+    color: yellow;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.aboutContent {
+    font-size: x-large;
+    text-align: center;
+    /* width: 80%;    <-- This won't work.*/ 
+    margin-right: 20%;
+    margin-left: 20%;
+}

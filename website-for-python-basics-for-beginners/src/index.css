@@ -20,7 +20,6 @@ body {
     padding-bottom: 1%; */
     overflow: hidden;
     padding: 1%;
-
 }
 
 #optionDesign {
@@ -93,3 +92,5 @@ img {
     background-color: white;
     border: 2px solid yellow;
 }
+
+/* ToolTip features will be introduced */

@@ -2,8 +2,8 @@
 
 # Here one can learn: 
 
-  1. Small intro to programming languages.
-  2. What is Python programming language.
+  1. Small introduction to programming languages.
+  2. What the Python programming language is.
   3. From where to download Python.
   4. Python comments.
   5. Data types of Python.

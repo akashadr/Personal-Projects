@@ -2,9 +2,9 @@
 
 # Here one can learn: 
 
-  1. Small intro to programming languages.
-  2. What is Python programming language.
-  3. From where to download Python.
+  1. Small introduction to programming languages.
+  2. What the Python programming language is.
+  3. From where to download Python & how to install.
   4. Python comments.
   5. Data types of Python.
   6. Operators of Python.

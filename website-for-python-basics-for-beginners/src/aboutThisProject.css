@@ -47,8 +47,7 @@ body {
 }
 
 p {
-    font-family: Cambria, Cochin, Georgia, Times, 
-    'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 50px;
     text-align: center;
 }
@@ -60,17 +59,3 @@ p {
     margin-right: 20%;
     margin-left: 20%;
 }
-
-.connectPara {
-    font-size: xx-large;
-    font-family: Cambria, Cochin, Georgia, Times, 
-    'Times New Roman', serif;
-    text-align: center;
-}
-
-/* .title {
-    font-family: Cambria, Cochin, Georgia, Times, 
-    'Times New Roman', serif;
-    font-size: 50px;
-    text-align: center;
-} */
